@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Harini Mayil!
 - 👀 I’m interested in Programming and Web Development.
 - 🌱 I’m currently learning Bachelors in Computer Science Engineering at Chennai Institute of Technology.
+- Excited to glean knowledge..
   
 
 <!---
